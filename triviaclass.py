@@ -1,7 +1,7 @@
 import sys, pygame
 from pygame.locals import *
 
-class Trival(object):
+class Trivia(object):
     def __init__(self, filename):
         self.data = []
         self.current = 0
